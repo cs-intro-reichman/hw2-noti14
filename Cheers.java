@@ -24,6 +24,7 @@ public class Cheers {
                                 case 'H':
                                 case 'I':
                                 case 'L':
+                                case 'N':
                                 case 'M':
                                 case 'O':
                                 case 'R':
